@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694861659 source:c:\users\youcode\desktop\youcode\condi-9\main.c
+	<stdio.h>
+	<stdlib.h>
+
