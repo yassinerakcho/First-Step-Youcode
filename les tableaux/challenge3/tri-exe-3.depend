@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695262197 source:c:\users\yassi\desktop\youcode\tri-exe-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
